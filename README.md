@@ -17,4 +17,4 @@ Uma descrição breve do que o projeto faz.
 Outra descrição do projeto.
 
 ## 📈 Status de Contribuições
-![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoRamos1012&show_icons=true&hide_title=true&count_private=true&hide=prs)
