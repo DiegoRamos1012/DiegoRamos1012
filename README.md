@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome] 👋
 
-<!--
-**DiegoRamos1012/DiegoRamos1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-@seutwitter-1ca0f1?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/seutwitter)
+[![LinkedIn Badge](https://img.shields.io/badge/-Seu%20LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seulinkedin/)
 
-Here are some ideas to get you started:
+## 💻 Tecnologias que eu uso
+- **Linguagens**: Python, JavaScript, HTML, CSS
+- **Frameworks**: React, Node.js, Django
+- **Ferramentas**: Git, Docker, AWS, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em Destaque
+
+### [Projeto A](https://github.com/seuusuario/projeto-a)
+Uma descrição breve do que o projeto faz.
+
+### [Projeto B](https://github.com/seuusuario/projeto-b)
+Outra descrição do projeto.
+
+## 📈 Status de Contribuições
+![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&hide_title=true&count_private=true&hide=prs)
