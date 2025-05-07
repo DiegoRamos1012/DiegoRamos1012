@@ -6,18 +6,12 @@
 - **Linguagens de Programação**: JavaScript, TypeScript, SQL
 - **Frameworks**: React, React Native
 - **Banco de Dados**: SQL (MySQL, PostgreSQL)
-- **Ferramentas**: Git, GitHub, VS Code
+- **Ferramentas**: Git, VS Code, Google Firebase
 
 ## 🚀 Projetos em Destaque
 
-### [Projeto 1 - Nome do Projeto](link-do-projeto)
-📝 **Descrição**: Breve descrição do projeto. O que ele faz, como funciona e o que você aprendeu com ele. Pode ser uma aplicação que você desenvolveu usando **React** ou **React Native**.
-
-### [Projeto 2 - Nome do Projeto](link-do-projeto)
-📝 **Descrição**: Outra descrição de um projeto relevante que você criou ou contribuiu. Tente incluir tecnologias que você usou e o que você implementou.
-
-### [Projeto 3 - Nome do Projeto](link-do-projeto)
-📝 **Descrição**: Adicione outro projeto de destaque aqui, caso tenha.
+### [App pra barbearia]
+📝 **Descrição**: Este é um aplicativo projetado em React Native e Firebase, feito para otimizar a experiência do usuário cliente ou funcionário, visando tornar mais prático e ágil a reserva de serviços, assim como a criação e gerenciamento de serviços. Conta com ferramentas de autenticação e recuperação de credenciais.
 
 ## 📊 Status de Contribuições
 
