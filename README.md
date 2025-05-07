@@ -17,10 +17,6 @@
 
 ![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoRamos1012&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 📈 Gráfico de Atividades
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DiegoRamos1012&theme=github)
-
 ## 💬 Meus Badges
 
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-FFD700?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com)
@@ -31,19 +27,16 @@
 
 ## 📫 Como me encontrar
 
-- **LinkedIn**: [Seu LinkedIn](link)
-- **Twitter**: [@SeuTwitter](link)
-- **Portfólio**: [Seu Portfólio](link)
+- **LinkedIn**: (Em desenvolvimento)
+- **Portfólio**: (Em desenvolvimento)
 
 ## 📚 Estatísticas de Leitura
 
-[![Leitura de Livros Badge](https://img.shields.io/badge/Books%20Read-5-4A90E2?style=flat-square)](https://www.goodreads.com)
-
 ## 🎯 Objetivos de Aprendizado
 
-- Estudar **Machine Learning** e **AI** com **JavaScript**
-- Melhorar as habilidades em **SQL** e trabalhar com **NoSQL**
-- Contribuir mais para projetos **open-source**
+- Estudar linguagens back-end como PHP/Laravel e Golang
+- Aprimorar minhas habilidades de raciocínio e diagnóstico de problemas
+- Criar projetos que busca otimizar a experiência do usuário 
 - Continuar aprimorando minhas habilidades em **React Native** e **Mobile Development**
 
 ---
