@@ -1,4 +1,4 @@
-# Olá, eu sou **Diego** 👋
+# **Sobre mim** 
 
 🔭 Atualmente, estou estudando **Ciências da Computação** e me aprofundando em **JavaScript**, **TypeScript**, **React** e **React Native**, além de futuramente me especializar em PHP/Laravel e Golang. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades em desenvolvimento web e mobile.
 
