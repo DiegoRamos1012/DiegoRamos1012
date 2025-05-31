@@ -21,11 +21,13 @@ Portfólio: (https://portfolio-a1qb7z50k-diegoramos1012s-projects.vercel.app/)
 
 ## 💬 Meus Badges
 
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-FFD700?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
-[![React Native Badge](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)  
+[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)  
+[![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org)  
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-FFD700?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com)  
+[![React Native Badge](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev)  
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)  
+
 
 ## 📫 Como me encontrar
 
