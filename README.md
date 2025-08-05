@@ -8,7 +8,7 @@
 - **Banco de Dados**: SQL (MySQL, PostgreSQL)
 - **Ferramentas**: Git, VS Code, Google Firebase
 
-Portfólio: (https://portfolio-a1qb7z50k-diegoramos1012s-projects.vercel.app/)
+Portfólio: (https://diegoramos1012.github.io/)
 
 ## 🚀 Projetos em Destaque
 
