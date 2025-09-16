@@ -1,4 +1,4 @@
-<h1 align="left">Hello! Welcome to my profile!</h1>
+<h1 align="left">💻 Hello! Welcome to my profile!</h1>
 
 ###
 
