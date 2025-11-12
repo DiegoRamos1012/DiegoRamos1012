@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Programming since 2024<br>📚 I'm currently learning: Golang, React, Typescript, Next.js<br>🎯 Goals: Aprimorar meu conhecimento e evoluir na minha carreira</p>
+<p align="left">✨ Programming since 2024<br>📚 I'm currently learning: Golang, React, Typescript, Node.js<br>🎯 Goals: Aprimorar meu conhecimento e evoluir na minha carreira</p>
 
 ###
 
