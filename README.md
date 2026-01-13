@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Meu nome é Diego, tenho 21 anos, estou do Brasil e atualmente estou no sétimo semestre no bacharelado de Ciência da Computação. Sou estagiário na Prefeitura de São José dos Campos, com foco em desenvolvimento web full-stack. Atualmente estou me aprofundando em tecnologias **Java (Spring Boot), Node.js, TypeScript e Go**, aprimorando meus conhecimentos em desenvolvimento front-end e back-end. Gosto de criar projetos pessoais para estudo, mantendo sempre um padrão profissional de visual e funcionamento, para melhorar meu portfólio e meus conhecimentos.<br><br>
+Meu nome é Diego, tenho 21 anos, estou do Brasil e atualmente estou no sétimo semestre no bacharelado de Ciência da Computação. Sou estagiário na Prefeitura de São José dos Campos, com foco em desenvolvimento web full-stack. Atualmente estou me aprofundando em tecnologias <strong>Java (Spring Boot), Node.js, TypeScript e Go<strong />, aprimorando meus conhecimentos em desenvolvimento front-end e back-end. Gosto de criar projetos pessoais para estudo, mantendo sempre um padrão profissional de visual e funcionamento, para melhorar meu portfólio e meus conhecimentos.<br><br>
 My name is Diego, I'm 21 years old, I'm from Brazil, and I'm currently in my seventh semester of a Bachelor's degree in Computer Science. I'm an intern at the São José dos Campos City Hall, focusing on full-stack web development. I am currently deepening my knowledge in **Java (Spring Boot), Node.js, TypeScript, and Go**, developing both front-end and back-end skills. I enjoy working on personal projects for learning, always keeping a professional look and feel to improve my portfolio and skills.
 </p>
 
