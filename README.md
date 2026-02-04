@@ -17,7 +17,7 @@ My name is Diego, I'm 22 years old, I'm from Brazil, and I'm currently in my eig
 
 <p align="left">
 ✨ Programming since 2024<br>
-📚 Currently learning and improving: **Java (Spring Boot), Node.js, TypeScript, Go, React, Next.js**<br>
+📚 Currently learning and improving: <strong>Java (Spring Boot), Node.js, TypeScript, Go, React, Next.js</strong>
 🎯 Goals: Expand my knowledge and evolve to a <strong>junior developer</strong> role
 </p>
 
