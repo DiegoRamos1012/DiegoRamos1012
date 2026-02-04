@@ -4,7 +4,7 @@
 
 <p align="left">
 Meu nome é Diego, tenho 22 anos, estou do Brasil e atualmente estou no oitavo semestre no bacharelado de Ciência da Computação. Sou estagiário na Prefeitura de São José dos Campos, com foco em desenvolvimento web full-stack. Atualmente estou me aprofundando em tecnologias <strong>Java (Spring Boot), Node.js, TypeScript e Go</strong>, aprimorando meus conhecimentos em desenvolvimento front-end e back-end. Gosto de criar projetos pessoais para estudo, mantendo sempre um padrão profissional de visual e funcionamento, para melhorar meu portfólio e meus conhecimentos.<br><br>
-My name is Diego, I'm 22 years old, I'm from Brazil, and I'm currently in my eighth semester of a Bachelor's degree in Computer Science. I'm an intern at the São José dos Campos City Hall, focusing on full-stack web development. I am currently deepening my knowledge in **Java (Spring Boot), Node.js, TypeScript, and Go**, developing both front-end and back-end skills. I enjoy working on personal projects for learning, always keeping a professional look and feel to improve my portfolio and skills.
+My name is Diego, I'm 22 years old, I'm from Brazil, and I'm currently in my eighth semester of a Bachelor's degree in Computer Science. I'm an intern at the São José dos Campos City Hall, focusing on full-stack web development. I am currently deepening my knowledge in <strong>Java (Spring Boot), Node.js, TypeScript, and Go</strong>, developing both front-end and back-end skills. I enjoy working on personal projects for learning, always keeping a professional look and feel to improve my portfolio and skills.
 </p>
 
 <p align="left">LinkedIn: <a href="https://www.linkedin.com/in/diego-ramos-702a8922a/">https://www.linkedin.com/in/diego-ramos-702a8922a/</a></p>
