@@ -1,11 +1,11 @@
 <h1 align="left">💻 Hello! Welcome to my profile!</h1>
 
 <p align="left">
-Meu nome é Diego, tenho 22 anos, sou brasileiro e formado em Ciência da Computação pela UNIP. Atuei como estagiário de desenvolvimento web na Prefeitura de São José dos Campos e atualmente presto serviços como desenvolvedor PJ para a Konatus, uma consultoria de software que atende empresas multinacionais.
+Meu nome é Diego, tenho 22 anos, sou brasileiro e formado em Ciência da Computação pela UNIP. Atuei como estagiário de desenvolvimento web na Prefeitura de São José dos Campos e atualmente presto serviços como desenvolvedor PJ para a Konatus, uma consultoria de software que atende grandes empresas nacionais.
 
 Meu foco principal é o desenvolvimento backend com <strong>Java e Spring Boot</strong>, criando APIs e aplicações com atenção à arquitetura, regras de negócio, testes e boas práticas de desenvolvimento. Também trabalho com <strong>C#/.NET</strong> como stack secundária e possuo conhecimentos em <strong>TypeScript, JavaScript, React e Next.js</strong>, que me permitem atuar no desenvolvimento fullstack. Além da experiência profissional, desenvolvo projetos pessoais para aprofundar meus conhecimentos e aprimorar minhas habilidades de engenharia de software.
 <br><br>
-My name is Diego, I'm 22 years old, from Brazil, and I hold a Bachelor's degree in Computer Science from UNIP. I worked as a web development intern at the São José dos Campos City Hall, and I currently work as an independent contractor for Konatus, a software consultancy serving multinational companies.
+My name is Diego, I'm 22 years old, from Brazil, and I hold a Bachelor's degree in Computer Science from UNIP. I worked as a web development intern at the São José dos Campos City Hall, and I currently work as an independent contractor for Konatus, a software consultancy that serves large Brazilian companies.
 
 My primary focus is backend development with <strong>Java and Spring Boot</strong>, building APIs and applications with an emphasis on architecture, business logic, testing, and software engineering best practices. I also work with <strong>C#/.NET</strong> as my secondary stack and have experience with <strong>TypeScript, JavaScript, React, and Next.js</strong>, enabling me to contribute to fullstack development. Alongside my professional experience, I build personal projects to deepen my technical knowledge and strengthen my software engineering skills.
 </p>
