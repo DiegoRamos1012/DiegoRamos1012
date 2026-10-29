@@ -1,5 +1,3 @@
-# 💻 Hello! Welcome to my profile!
-
 <h1 align="left">💻 Hello! Welcome to my profile!</h1>
 
 <p align="left">
